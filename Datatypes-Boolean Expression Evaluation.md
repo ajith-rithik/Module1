@@ -1,5 +1,7 @@
 
 # Ex 1:Datatypes-Boolean Expression Evaluation in Python
+## Name : Rithik S N
+## Reg.NO: 212224050039
 
 ## 🎯 Aim
 To write a Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`.
@@ -15,7 +17,16 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+~~~
+a=int(input())
+if a%2==0:
+    print("EVEN")
+else:
+    print("ODD")
+~~~
 
 ## Output
+<img width="1254" height="675" alt="image" src="https://github.com/user-attachments/assets/0d990610-19fd-47b4-9a8f-6a4d1afc82e5" />
+
 ## Result
+Thus,the Python program to check whether the given number is even or odd using if...else statements is created successfully.
